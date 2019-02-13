@@ -1,0 +1,1 @@
+F:\C#\DiskInfoProgram\bin\Debug\DiskInfoProgram.exe.config

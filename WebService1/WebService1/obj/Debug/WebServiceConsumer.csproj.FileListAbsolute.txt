@@ -1,0 +1,6 @@
+B:\C#\WebService1\WebService1\bin\Debug\WebService1.exe.config
+B:\C#\WebService1\WebService1\bin\Debug\WebService1.exe
+B:\C#\WebService1\WebService1\bin\Debug\WebService1.pdb
+B:\C#\WebService1\WebService1\obj\Debug\WebServiceConsumer.csprojResolveAssemblyReference.cache
+B:\C#\WebService1\WebService1\obj\Debug\WebService1.exe
+B:\C#\WebService1\WebService1\obj\Debug\WebService1.pdb

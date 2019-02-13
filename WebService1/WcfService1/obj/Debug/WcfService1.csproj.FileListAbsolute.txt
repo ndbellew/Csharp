@@ -1,0 +1,6 @@
+B:\C#\WebService1\WcfService1\bin\WcfService1.dll.config
+B:\C#\WebService1\WcfService1\bin\WcfService1.dll
+B:\C#\WebService1\WcfService1\bin\WcfService1.pdb
+B:\C#\WebService1\WcfService1\obj\Debug\WcfService1.csprojResolveAssemblyReference.cache
+B:\C#\WebService1\WcfService1\obj\Debug\WcfService1.dll
+B:\C#\WebService1\WcfService1\obj\Debug\WcfService1.pdb

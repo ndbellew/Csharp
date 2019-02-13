@@ -1,0 +1,6 @@
+F:\C#\REadFromFileProgram\REadFromFileProgram\bin\Debug\REadFromFileProgram.exe.config
+F:\C#\REadFromFileProgram\REadFromFileProgram\bin\Debug\REadFromFileProgram.exe
+F:\C#\REadFromFileProgram\REadFromFileProgram\bin\Debug\REadFromFileProgram.pdb
+F:\C#\REadFromFileProgram\REadFromFileProgram\obj\Debug\REadFromFileProgram.csprojResolveAssemblyReference.cache
+F:\C#\REadFromFileProgram\REadFromFileProgram\obj\Debug\REadFromFileProgram.exe
+F:\C#\REadFromFileProgram\REadFromFileProgram\obj\Debug\REadFromFileProgram.pdb

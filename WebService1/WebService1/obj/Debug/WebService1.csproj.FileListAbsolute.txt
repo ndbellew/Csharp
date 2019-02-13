@@ -1,0 +1,1 @@
+B:\C#\WebService1\WebService1\bin\Debug\WebService1.exe.config

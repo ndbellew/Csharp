@@ -1,0 +1,1 @@
+B:\C#\SnotelConsumer\SnotelConsumer\bin\Debug\SnotelConsumer.exe.config

@@ -1,0 +1,2 @@
+C:\Users\cpjohnson\Documents\C#\project8\project8\bin\Debug\project8.exe.config
+B:\C#\project8\project8\bin\Debug\project8.exe.config
